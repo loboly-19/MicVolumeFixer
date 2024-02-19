@@ -7,6 +7,7 @@ This Python script utilizes the PyCAW and COMTypes libraries to monitor and main
 * Checks your default microphone volume level.
 * Automatically raises the volume back to 100% if it detects a decrease below 95%.
 * Runs continuously in the background.
+* only consume 0.8mb of RAM.
 
 **Usage**
 
