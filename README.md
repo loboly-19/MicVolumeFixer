@@ -9,6 +9,10 @@ This Python script utilizes the PyCAW and COMTypes libraries to monitor and main
 * Runs continuously in the background.
 * only consume 0.8mb of RAM.
 
+**Notes**
+* Written with help of AI.
+* Windows falsely detect it as a threat.
+
 **Usage**
 
 1. **Dependencies:**  Ensure you have PyCAW and COMTypes installed. You can usually do this with `pip install pycaw comtypes`.
